@@ -4,7 +4,7 @@
 - Pytorch
 - Scikit-learn
 - Distill-bert pretrained model -finetuned on data.csv
-- ![image](https://github.com/anu-sin-theta/build-bharat-bot/assets/97542033/e728d905-2eb7-4f0d-984a-8ee5b12b9086)
+![image](https://github.com/anu-sin-theta/build-bharat-bot/assets/97542033/e728d905-2eb7-4f0d-984a-8ee5b12b9086)
 
 # Nego-Bot -Tensor Minds
 
