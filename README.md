@@ -11,6 +11,8 @@
 Welcome to Nego-Bot, the revolutionary negotiation tool designed specifically for the Indian market! Our state-of-the-art technology utilizes Natural Language Processing (NLP) and PyTorch to help you secure better deals on products by suggesting your preferred prices to sellers.
 
 ## Features
+We are trying out our possible best, some improvements and tunings in respect of UI and models might feel incomplete. All features are  being continuously improved by assigned team members.
+reason -- we got indulged in annual CTs :)
 
 ### Version 1: Intelligent NLP Negotiation engine (DEV)
 Utilizing advanced NLP techniques with PyTorch, our first version offers an intelligent and dynamic way to negotiate prices. It keeps track of user preferences and sends personalized pricing suggestions directly to the seller.
