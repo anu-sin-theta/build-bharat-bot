@@ -1,10 +1,11 @@
-## used google products and other technologies
+## Used google products and other technologies
 - Firestore
 - Vertex ai (Dialog Flow)
 - Pytorch
 - Scikit-learn
 - Distill-bert pretrained model -finetuned on data.csv
-- 
+- ![image](https://github.com/anu-sin-theta/build-bharat-bot/assets/97542033/e728d905-2eb7-4f0d-984a-8ee5b12b9086)
+
 # Nego-Bot -Tensor Minds
 
 Welcome to Nego-Bot, the revolutionary negotiation tool designed specifically for the Indian market! Our state-of-the-art technology utilizes Natural Language Processing (NLP) and PyTorch to help you secure better deals on products by suggesting your preferred prices to sellers.
